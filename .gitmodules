@@ -1,3 +1,0 @@
-[submodule "cves"]
-  path = cves
-  url = ssh://`id`foo.example.com/bar
