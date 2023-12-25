@@ -1,3 +1,3 @@
 [submodule "cves"]
   path = cves
-  url = sshzss://`id`foo.example.com/bar
+  url = rdp://`id`foo.example.com/bar
