@@ -1,5 +1,5 @@
 ## RCE via insecure `~/.ssh/config`
-
+s
 Use of tokens like %h, %p in `ProxyCommand` is quite popular to use tunnels and connection proxying using SSH.
 
 ### Vulnerable config
