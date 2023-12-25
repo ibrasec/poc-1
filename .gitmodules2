@@ -1,3 +1,0 @@
-[submodule "cves"]
-  path = cves
-  url = ftp://`id`foo.example.com/bar
